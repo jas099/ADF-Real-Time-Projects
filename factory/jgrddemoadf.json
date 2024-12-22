@@ -1,0 +1,9 @@
+{
+	"name": "jgrddemoadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d1e41d85-d060-4421-a7de-318b4979a8d4",
+		"tenantId": "5269eff1-1994-4aa6-81ce-6b6efd8a764a"
+	}
+}

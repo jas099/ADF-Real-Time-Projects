@@ -1,0 +1,11 @@
+{
+	"name": "KeyVault_gen2_ls",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://kv-rd-demo-adlsgen2.vault.azure.net/"
+		}
+	}
+}
